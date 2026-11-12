@@ -1,0 +1,91 @@
+<!--2026BCS0032 SHEZA ABDUL GAPHUR 1:35PM 01/10/2026-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Student Details</title>
+    </head>
+    <body>
+        <h1>STUDENT DETAILS</h1>
+        <table border="1">
+        <caption>IIIT Kottayam'30 Batch 3</caption>
+        
+            <tr>
+                <th>Roll Number</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Course</th>
+            </tr>
+
+            <tr>
+                <td>101</td>
+                <td>Sheza</td>
+                <td>18</td>
+                <td>Computer Science</td>
+            </tr>
+
+            <tr>
+                <td>102</td>
+                <td>Sirivalli</td>
+                <td>17</td>
+                <td>Information Technology</td>
+            </tr>   
+            
+            <tr>
+                <td>103</td>
+                <td>Mythri</td>
+                <td>19</td>
+                <td>Electronics</td>
+            </tr>
+
+            <tr>
+                <td>104</td>
+                <td>Nidha</td>
+                <td>18</td>
+                <td>Mechanical</td>
+            </tr>
+
+            <tr>
+                <td>105</td>
+                <td>Aiza</td>
+                <td>17</td>
+                <td>Civil</td>
+            </tr>
+
+            <tr>
+                <td>106</td>
+                <td>Vedha</td>
+                <td>18</td>
+                <td>Electrical</td>
+            </tr>
+
+            <tr>
+                <td>107</td>
+                <td>Sikha</td>
+                <td>19</td>
+                <td>Computer Science</td>
+            </tr>
+
+            <tr>
+                <td>108</td>
+                <td>Kriti</td>
+                <td>18</td>
+                <td>Information Technology</td>
+            </tr>
+
+            <tr>
+                <td>109</td>
+                <td>Nancy</td>
+                <td>17</td>
+                <td>Electronics</td>
+            </tr>
+
+            <tr>
+                <td>110</td>
+                <td>Meelia</td>
+                <td>18</td>
+                <td>Mechanical</td>
+            </tr>
+
+            </table>
+    </body>
+</html>
